@@ -56,4 +56,6 @@ This visualization can be useful for:
 - Continent-level aggregation was used due to lack of detailed country-specific data.
 
 ---
+## A screenshot of the project 
+![image](https://github.com/user-attachments/assets/64aefd1b-ac00-46a7-a249-29ca04a53266)
 
